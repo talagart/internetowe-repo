@@ -8,3 +8,4 @@ print(multiple_of_2, "\n")
 
 multiple_of_3 = [n for n in numbers if n % 3 == 0]
 print(multiple_of_3, "\n")
+print(jej)
